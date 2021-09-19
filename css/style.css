@@ -254,10 +254,10 @@ button:hover {
   background-position: center center;
 }
 
-.bg-schedule {
+/* .bg-schedule {
   background: url(../images/background/schedule-bg.png) no-repeat;
   background-size: cover;
-}
+} */
 
 .bg-service {
   background: url(../images/background/feature-background.jpg) no-repeat;
