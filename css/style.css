@@ -191,7 +191,7 @@ ul.social-links li a i {
 }
 
 span.alternate {
-  color: #BD1616;
+  color:deepskyblue;
   font-weight: 400;
 }
 
@@ -201,7 +201,7 @@ a {
 }
 
 a:focus, a:hover {
-  color: #BD1616;
+  color:deepskyblue;
   text-decoration: none;
 }
 
@@ -299,7 +299,7 @@ button:hover {
 }
 
 .section {
-  padding: 90px 0;
+  padding: 0px 0;
 }
 
 .border-less {
@@ -628,7 +628,7 @@ select.form-control:not([size]):not([multiple]) {
 .main-nav .navbar-nav .nav-item .nav-link:hover {
   position: relative;
   text-align: center;
-  color: #BD1616;
+  color: deepskyblue;
   padding-left: 8px;
   padding-right: 20px;
   font-size: 1.2rem;
@@ -1209,14 +1209,14 @@ select.form-control:not([size]):not([multiple]) {
   margin-bottom: 35px;
 }
 
-.about .content-block h2:after {
+/* .about .content-block h2:after {
   content: "";
   width: 60px;
   height: 3px;
-  background: #BD1616;
+  background: deepskyblue;
   display: block;
   margin-top: 10px;
-}
+} */
 
 @media (max-width: 767px) {
   .about .content-block h2:after {
@@ -3559,7 +3559,7 @@ ul.pagination .active a {
 
 .about {
   padding: 20px 0;
-  margin: 50px;
+  margin: 10px;
 }
 
 .testimonial .testimonial-item {
@@ -3732,7 +3732,7 @@ ul.pagination .active a {
   text-align: center;
   position: relative;
   font-weight: bold;
-  color: #BD1616;
+  color:deepskyblue;
   margin: 2px 8px 14px 0px;
   border: 2px solid rgba(0, 0, 0, 0.1);
   border-radius: 100%;
