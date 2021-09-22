@@ -1117,7 +1117,7 @@ select.form-control:not([size]):not([multiple]) {
     text-align: center;
     position: relative;
     font-weight: bold;
-    color: #BD1616;
+    color: black;
     margin: 2px 8px 14px 0px;
     border: 2px solid rgba(0, 0, 0, 0.1);
     border-radius: 100%;
